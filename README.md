@@ -2,7 +2,7 @@
 
 
 这是一个在获取小电影封面的时候遇到的问题，avmoo的图片服务器会在番号前加一些前缀，猜不透其中规律，所以检索了5600多个番号，序列号-前缀的关系爬了下来，保存在
-<a href='./output/prefix_table'>这里</a>
+<a href='./output/prefix_table.json'>这里</a>
 
 # 具体说明
 
